@@ -1,3 +1,5 @@
+![Imagem do projeto](https://raw.githubusercontent.com/J0aoD3v/semPAA2025/main/image%20(1).png)
+
 # Análise Amortizada: Material Completo para Seminário de PAA
 
 Preparei um **material completo e aprofundado** para seu seminário de Análise Amortizada. Aqui está o que foi desenvolvido:
